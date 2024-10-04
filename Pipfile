@@ -4,15 +4,28 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+ipython = "*"
 openai = "*"
 scikit-learn = "*"
 pandas = "*"
 flask = "*"
+streamlit = "*"
+elasticsearch = "*"
+openpyxl = "*"
 
 [dev-packages]
 tqdm = "*"
 notebook = "==7.1.2"
 ipywidgets = "*"
+sentence-transformers = "*"
+openai-whisper = "*"
+SpeechRecognition = "*"
+pydub = "*"
+gtts = "*"
+streamlit-audiorecorder = "*"
+streamlit-webrtc = "*"
+streamlit-audiorec = "*"
 
 [requires]
 python_version = "3.11"
+python_full_version = "3.11.5"

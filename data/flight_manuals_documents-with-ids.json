@@ -1,0 +1,1802 @@
+[
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Electrical Failure",
+    "instructions": "Advise cabin crew of situation, maintain visual contact with other aircraft.",
+    "id": "61162cbd"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "15f6e195"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "f66c8aa4"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "d2530459"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Fire in Engine",
+    "instructions": "Shut down affected engine, activate fire suppression system, prepare for emergency landing.",
+    "id": "37233acc"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Deploy slides if necessary, account for all passengers and crew.",
+    "id": "ddc5c9dd"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Bird Strike",
+    "instructions": "Inform ATC of bird strike, request immediate return to airport if necessary.",
+    "id": "2cb7cfed"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Fuel Leak",
+    "instructions": "Isolate affected fuel tank, crossfeed from other tanks, calculate remaining fuel for diversion.",
+    "id": "adafc497"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "f912147d"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "b008e2c7"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Stall Warning",
+    "instructions": "Verify stall warning accuracy, monitor airspeed and altitude, prepare for possible emergency descent.",
+    "id": "e4030f9f"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Declare emergency, initiate cabin smoke removal procedures, divert to nearest airport.",
+    "id": "619ed77f"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Limit control inputs to essential movements, monitor hydraulic pressure levels.",
+    "id": "e0cf7641"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "b23ae2b2"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "409ce57a"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "fee6abe4"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Bird Strike",
+    "instructions": "Assess aircraft for damage, monitor engine performance, prepare for possible diversion.",
+    "id": "d39fe6c1"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Advise cabin crew to locate source of smoke, prepare passengers for possible evacuation.",
+    "id": "93d7371f"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Engine Overheating",
+    "instructions": "Adjust fuel mixture, increase airspeed to cool engine, declare emergency if temperature rises.",
+    "id": "8a65a170"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Bird Strike",
+    "instructions": "Assess aircraft for damage, monitor engine performance, prepare for possible diversion.",
+    "id": "9f138307"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Bird Strike",
+    "instructions": "Check for abnormal vibrations, perform engine checks, advise cabin crew.",
+    "id": "fa1b286f"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "736b9bc8"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "48e16b07"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "d9fc5a07"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Runway Overrun",
+    "instructions": "Inform ATC, avoid obstacles beyond runway, assess aircraft damage after stop.",
+    "id": "ad6dab20"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Navigation System Failure",
+    "instructions": "Switch to backup navigation system, continue flight under manual control, prepare for manual landing.",
+    "id": "4fb290f8"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "5e3a62fb"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Stall Warning",
+    "instructions": "Verify stall warning accuracy, monitor airspeed and altitude, prepare for possible emergency descent.",
+    "id": "fb0ce127"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Brake Failure",
+    "instructions": "Plan for longer landing rollout, use reverse thrust and spoilers effectively, inform ATC.",
+    "id": "d0ae977a"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Instrument Failure",
+    "instructions": "Avoid abrupt maneuvers, monitor other instruments for inconsistencies.",
+    "id": "29dad96d"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "7833ddd4"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "50367664"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Switch to backup hydraulic system, contact ATC for nearest airport diversion.",
+    "id": "3ab6904a"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Don smoke goggles if necessary, coordinate with ATC for priority landing.",
+    "id": "e51c92a3"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Navigation System Failure",
+    "instructions": "Rely on visual navigation if possible, ensure all navigation data is recorded.",
+    "id": "d1832e06"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "c3b755f6"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Instrument Failure",
+    "instructions": "Avoid abrupt maneuvers, monitor other instruments for inconsistencies.",
+    "id": "7d9b522a"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "7b8f1aab"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "ee6b366c"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Turbulence",
+    "instructions": "Engage autopilot turbulence mode, ensure seat belts are fastened, report to ATC.",
+    "id": "61e5be2e"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Navigation System Failure",
+    "instructions": "Rely on visual navigation if possible, ensure all navigation data is recorded.",
+    "id": "4af5ead9"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "7131c711"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Engine Failure",
+    "instructions": "Throttle idle, apply maximum climb, contact ATC for emergency landing clearance.",
+    "id": "92f83356"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Electrical Failure",
+    "instructions": "Switch to backup power system, reduce non-essential loads, contact ATC for diversion.",
+    "id": "7482d66e"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Activate emergency pressurization system, monitor cabin altitude, brief cabin crew.",
+    "id": "d9fa7e81"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "c378ce53"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "f88f83e8"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "5db64d9d"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "4a0aa44e"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Advise cabin crew to locate source of smoke, prepare passengers for possible evacuation.",
+    "id": "c9abd861"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Electrical Failure",
+    "instructions": "Switch to backup power system, reduce non-essential loads, contact ATC for diversion.",
+    "id": "780edfe1"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Engine Failure",
+    "instructions": "Maintain heading, attempt engine restart procedures, prepare for single-engine operation.",
+    "id": "6081ba4f"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Brake Failure",
+    "instructions": "Plan for longer landing rollout, use reverse thrust and spoilers effectively, inform ATC.",
+    "id": "ce3e6c8a"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Electrical Failure",
+    "instructions": "Advise cabin crew of situation, maintain visual contact with other aircraft.",
+    "id": "b2034496"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Stop aircraft, initiate evacuation procedures, coordinate with cabin crew.",
+    "id": "9a87411d"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Check for structural damage, prepare for possible emergency landing.",
+    "id": "ea95010a"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Stall Warning",
+    "instructions": "Verify stall warning accuracy, monitor airspeed and altitude, prepare for possible emergency descent.",
+    "id": "2d599f84"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "a03641b9"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Instrument Failure",
+    "instructions": "Switch to standby instruments, maintain visual flight rules if possible, inform ATC.",
+    "id": "ab42e5c2"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Brake Failure",
+    "instructions": "Plan for longer landing rollout, use reverse thrust and spoilers effectively, inform ATC.",
+    "id": "84f99b41"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Instrument Failure",
+    "instructions": "Avoid abrupt maneuvers, monitor other instruments for inconsistencies.",
+    "id": "883fd102"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Engine Failure",
+    "instructions": "Throttle idle, apply maximum climb, contact ATC for emergency landing clearance.",
+    "id": "3ae3b534"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Decompression",
+    "instructions": "Don oxygen masks, initiate emergency descent, inform ATC and passengers.",
+    "id": "ae811a9b"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Turbulence",
+    "instructions": "Engage autopilot turbulence mode, ensure seat belts are fastened, report to ATC.",
+    "id": "29747ca2"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "ba79e591"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "efe22748"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Engine Failure",
+    "instructions": "Throttle idle, apply maximum climb, contact ATC for emergency landing clearance.",
+    "id": "e4da024b"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "d0b5be45"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "5b3ef794"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "56cd3c86"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "648b78c3"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Stall Warning",
+    "instructions": "Verify stall warning accuracy, monitor airspeed and altitude, prepare for possible emergency descent.",
+    "id": "c9ad4537"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Implement manual flight controls, reduce speed, prepare for manual landing.",
+    "id": "3eabdcb7"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Switch to backup hydraulic system, contact ATC for nearest airport diversion.",
+    "id": "fb8f6aa0"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Electrical Failure",
+    "instructions": "Advise cabin crew of situation, maintain visual contact with other aircraft.",
+    "id": "d8596349"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Consider belly landing if necessary, brief cabin crew and passengers.",
+    "id": "cc005dc4"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Engine Overheating",
+    "instructions": "Reduce thrust on affected engine, monitor temperature gauges, prepare for potential engine shutdown.",
+    "id": "53b6959a"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "9568af42"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Icing Conditions",
+    "instructions": "Activate anti-ice systems, monitor fuel temperature, consider altitude change.",
+    "id": "fd2dabcc"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Engine Failure",
+    "instructions": "Maintain heading, attempt engine restart procedures, prepare for single-engine operation.",
+    "id": "e4468632"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "605bb733"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Bird Strike",
+    "instructions": "Inform ATC of bird strike, request immediate return to airport if necessary.",
+    "id": "3dc4fb53"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "d051fab2"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "48081747"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Engine Overheating",
+    "instructions": "Adjust fuel mixture, increase airspeed to cool engine, declare emergency if temperature rises.",
+    "id": "d2d21fdc"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Deploy slides if necessary, account for all passengers and crew.",
+    "id": "5781223c"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Bird Strike",
+    "instructions": "Assess aircraft for damage, monitor engine performance, prepare for possible diversion.",
+    "id": "c90525d7"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "97b3a91c"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Runway Overrun",
+    "instructions": "Inform ATC, avoid obstacles beyond runway, assess aircraft damage after stop.",
+    "id": "53295742"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "486df8c2"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "9b8027da"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Decompression",
+    "instructions": "Don oxygen masks, initiate emergency descent, inform ATC and passengers.",
+    "id": "ce8eada9"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "6022f45c"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "173630db"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "dc05cbdc"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Navigation System Failure",
+    "instructions": "Rely on visual navigation if possible, ensure all navigation data is recorded.",
+    "id": "a10a7f5e"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "bc0768d3"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "c903c0ca"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Navigation System Failure",
+    "instructions": "Switch to backup navigation system, continue flight under manual control, prepare for manual landing.",
+    "id": "5d2ab073"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Icing Conditions",
+    "instructions": "Activate anti-ice systems, monitor fuel temperature, consider altitude change.",
+    "id": "33307320"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Navigation System Failure",
+    "instructions": "Rely on visual navigation if possible, ensure all navigation data is recorded.",
+    "id": "d6b6ed8b"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Runway Overrun",
+    "instructions": "Inform ATC, avoid obstacles beyond runway, assess aircraft damage after stop.",
+    "id": "8dbda502"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "82fbe9f8"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "b512f467"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "434199e6"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Instrument Failure",
+    "instructions": "Switch to standby instruments, maintain visual flight rules if possible, inform ATC.",
+    "id": "00a74c42"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "2ddf4137"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "a881a87b"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "f833a3c2"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "59f27f12"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Bird Strike",
+    "instructions": "Check for abnormal vibrations, perform engine checks, advise cabin crew.",
+    "id": "d60b719a"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Implement manual flight controls, reduce speed, prepare for manual landing.",
+    "id": "69c5d6f0"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "27981535"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "4d76a03a"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "c02f3275"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Bird Strike",
+    "instructions": "Assess aircraft for damage, monitor engine performance, prepare for possible diversion.",
+    "id": "29e4903c"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Implement manual flight controls, reduce speed, prepare for manual landing.",
+    "id": "86542955"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "c5a83077"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "ae74644d"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Check for structural damage, prepare for possible emergency landing.",
+    "id": "3975a122"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Activate emergency pressurization system, monitor cabin altitude, brief cabin crew.",
+    "id": "196b5473"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "a4023393"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "16963cd2"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "81145128"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Runway Overrun",
+    "instructions": "Apply maximum braking, deploy spoilers and reverse thrust, prepare for possible evacuation.",
+    "id": "442c7280"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "92c5cf39"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "f26a9955"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Navigation System Failure",
+    "instructions": "Rely on visual navigation if possible, ensure all navigation data is recorded.",
+    "id": "5f9ce472"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Instrument Failure",
+    "instructions": "Use co-pilot's instruments if available, prepare for approach using backup systems.",
+    "id": "09d80390"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Brake Failure",
+    "instructions": "Consider diverting to airport with longer runway, prepare for possible runway excursion.",
+    "id": "2fbaf5a7"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "ce509d39"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "c0f7f7c2"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Implement manual flight controls, reduce speed, prepare for manual landing.",
+    "id": "825a39d5"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "b10c640d"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "650e0277"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Stall Warning",
+    "instructions": "Verify stall warning accuracy, monitor airspeed and altitude, prepare for possible emergency descent.",
+    "id": "709e4cbd"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Limit control inputs to essential movements, monitor hydraulic pressure levels.",
+    "id": "fe79dc8e"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Activate emergency pressurization system, monitor cabin altitude, brief cabin crew.",
+    "id": "84fee976"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "59c161ec"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "c864430b"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "33348ea0"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "84e67994"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Bird Strike",
+    "instructions": "Check for abnormal vibrations, perform engine checks, advise cabin crew.",
+    "id": "0afdda5f"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Descend to 10,000 feet, ensure oxygen masks are deployed, contact ATC for emergency descent.",
+    "id": "947f44c8"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "a7c0f93d"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Engine Overheating",
+    "instructions": "Reduce thrust on affected engine, monitor temperature gauges, prepare for potential engine shutdown.",
+    "id": "a46e3946"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Bird Strike",
+    "instructions": "Inform ATC of bird strike, request immediate return to airport if necessary.",
+    "id": "d4d5e257"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Limit control inputs to essential movements, monitor hydraulic pressure levels.",
+    "id": "1e3803c4"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "ee0b7671"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "740fa228"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "d9d35f46"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "b3cd86f1"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Electrical Failure",
+    "instructions": "Switch to backup power system, reduce non-essential loads, contact ATC for diversion.",
+    "id": "9a59332e"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "a35cf097"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Switch to backup hydraulic system, contact ATC for nearest airport diversion.",
+    "id": "ba61db15"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "b129192a"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Advise cabin crew to locate source of smoke, prepare passengers for possible evacuation.",
+    "id": "4953170a"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "65ee1297"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Fire in Engine",
+    "instructions": "Shut down affected engine, activate fire suppression system, prepare for emergency landing.",
+    "id": "636e4615"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "83cd2861"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "242ecdb9"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "b90b7695"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Limit control inputs to essential movements, monitor hydraulic pressure levels.",
+    "id": "322dd456"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "3791bb15"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Cross-check with other airspeed indicators, use GPS groundspeed as reference, avoid abrupt maneuvers.",
+    "id": "9f65f4ba"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "3d22ca5c"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Electrical Failure",
+    "instructions": "Advise cabin crew of situation, maintain visual contact with other aircraft.",
+    "id": "2acee21f"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Advise cabin crew to locate source of smoke, prepare passengers for possible evacuation.",
+    "id": "73d08629"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "895bc8ee"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "dd9b5c39"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Electrical Failure",
+    "instructions": "Use emergency power supply, monitor critical systems, prepare for possible communication loss.",
+    "id": "f48c57e5"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Navigation System Failure",
+    "instructions": "Use radio navigation aids, coordinate with ATC for heading and altitude information.",
+    "id": "5133ccf7"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "a49f0ec2"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Engine Failure",
+    "instructions": "Maintain heading, attempt engine restart procedures, prepare for single-engine operation.",
+    "id": "8fcca65d"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Inform ATC of unreliable airspeed, maintain safe altitude and attitude.",
+    "id": "b0f910ae"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Electrical Failure",
+    "instructions": "Use emergency power supply, monitor critical systems, prepare for possible communication loss.",
+    "id": "db59f6b2"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "ad5610c1"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Brake Failure",
+    "instructions": "Advise ground crew of brake issues upon landing, avoid high-speed taxiing.",
+    "id": "1184b40a"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "d1b0d39b"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Don smoke goggles if necessary, coordinate with ATC for priority landing.",
+    "id": "d1581844"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Electrical Failure",
+    "instructions": "Switch to backup power system, reduce non-essential loads, contact ATC for diversion.",
+    "id": "de81c65e"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Inform ATC of unreliable airspeed, maintain safe altitude and attitude.",
+    "id": "0c3a5189"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Fire in Engine",
+    "instructions": "Shut down affected engine, activate fire suppression system, prepare for emergency landing.",
+    "id": "6c666f77"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Switch to backup hydraulic system, contact ATC for nearest airport diversion.",
+    "id": "80547c73"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "3624a82d"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "2899803b"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Don smoke goggles if necessary, coordinate with ATC for priority landing.",
+    "id": "0facce3b"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "db8cd8fb"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Stop aircraft, initiate evacuation procedures, coordinate with cabin crew.",
+    "id": "eb01065e"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Instrument Failure",
+    "instructions": "Use co-pilot's instruments if available, prepare for approach using backup systems.",
+    "id": "45892678"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Engine Overheating",
+    "instructions": "Adjust fuel mixture, increase airspeed to cool engine, declare emergency if temperature rises.",
+    "id": "e82d378e"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "ec404922"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Fire in Engine",
+    "instructions": "Shut down affected engine, activate fire suppression system, prepare for emergency landing.",
+    "id": "d821be3e"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Declare emergency, initiate cabin smoke removal procedures, divert to nearest airport.",
+    "id": "3227fb33"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Check for structural damage, prepare for possible emergency landing.",
+    "id": "ddd5966c"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "2c24406b"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Runway Overrun",
+    "instructions": "Apply maximum braking, deploy spoilers and reverse thrust, prepare for possible evacuation.",
+    "id": "0112b8bd"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "17866fc8"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "0e305165"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Instrument Failure",
+    "instructions": "Switch to standby instruments, maintain visual flight rules if possible, inform ATC.",
+    "id": "718248ef"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "c252a035"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "78c9afca"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Engine Failure",
+    "instructions": "Throttle idle, apply maximum climb, contact ATC for emergency landing clearance.",
+    "id": "d543665e"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "c36e80f1"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Cross-check with other airspeed indicators, use GPS groundspeed as reference, avoid abrupt maneuvers.",
+    "id": "371f84df"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Instrument Failure",
+    "instructions": "Switch to standby instruments, maintain visual flight rules if possible, inform ATC.",
+    "id": "5d4ca2fb"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "1f89f1e9"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Engine Failure",
+    "instructions": "Throttle idle, apply maximum climb, contact ATC for emergency landing clearance.",
+    "id": "d22bc6c9"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Declare emergency, initiate cabin smoke removal procedures, divert to nearest airport.",
+    "id": "37f7ff0a"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Decompression",
+    "instructions": "Don oxygen masks, initiate emergency descent, inform ATC and passengers.",
+    "id": "fe9ced16"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Activate emergency pressurization system, monitor cabin altitude, brief cabin crew.",
+    "id": "c8d1647b"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Descend to 10,000 feet, ensure oxygen masks are deployed, contact ATC for emergency descent.",
+    "id": "a12c4585"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Instrument Failure",
+    "instructions": "Use co-pilot's instruments if available, prepare for approach using backup systems.",
+    "id": "0e54cb6a"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Instrument Failure",
+    "instructions": "Switch to standby instruments, maintain visual flight rules if possible, inform ATC.",
+    "id": "7136fe1a"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Electrical Failure",
+    "instructions": "Switch to backup power system, reduce non-essential loads, contact ATC for diversion.",
+    "id": "a93729d2"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Advise cabin crew to locate source of smoke, prepare passengers for possible evacuation.",
+    "id": "665b2bf3"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Navigation System Failure",
+    "instructions": "Use radio navigation aids, coordinate with ATC for heading and altitude information.",
+    "id": "849889ad"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Turbulence",
+    "instructions": "Notify passengers, adjust flight path to avoid turbulent area, monitor weather updates.",
+    "id": "17ad39cb"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Inform ATC of unreliable airspeed, maintain safe altitude and attitude.",
+    "id": "448af3a1"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "1a5d6224"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Electrical Failure",
+    "instructions": "Advise cabin crew of situation, maintain visual contact with other aircraft.",
+    "id": "778d9af5"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "5609889f"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Stall Warning",
+    "instructions": "Lower nose to reduce angle of attack, increase throttle to regain airspeed, avoid abrupt inputs.",
+    "id": "0cee4f90"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "02dd5f77"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "19535db7"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Engine Overheating",
+    "instructions": "Reduce thrust on affected engine, monitor temperature gauges, prepare for potential engine shutdown.",
+    "id": "dc81317d"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "264c362b"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Turbulence",
+    "instructions": "Engage autopilot turbulence mode, ensure seat belts are fastened, report to ATC.",
+    "id": "89e448d3"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "c1b2f7ae"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "92a390df"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Decompression",
+    "instructions": "Ensure all passengers are using oxygen masks, monitor cabin altitude.",
+    "id": "73beba70"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Brake Failure",
+    "instructions": "Plan for longer landing rollout, use reverse thrust and spoilers effectively, inform ATC.",
+    "id": "1e12d3ef"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "e84af035"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Navigation System Failure",
+    "instructions": "Switch to backup navigation system, continue flight under manual control, prepare for manual landing.",
+    "id": "89437062"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Switch to backup hydraulic system, contact ATC for nearest airport diversion.",
+    "id": "8398dd44"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "80607352"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "16e94a74"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Deploy slides if necessary, account for all passengers and crew.",
+    "id": "31e90932"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "547b5547"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "c9af7b11"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Icing Conditions",
+    "instructions": "Activate anti-ice systems, monitor fuel temperature, consider altitude change.",
+    "id": "af8097ef"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Icing Conditions",
+    "instructions": "Increase airspeed slightly to prevent ice accumulation, avoid sudden maneuvers.",
+    "id": "504b25ea"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Attempt manual gear extension, prepare for low approach for visual inspection.",
+    "id": "49d351a5"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "419e60c2"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Runway Overrun",
+    "instructions": "Apply maximum braking, deploy spoilers and reverse thrust, prepare for possible evacuation.",
+    "id": "1bb3c406"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "9720979c"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Stop aircraft, initiate evacuation procedures, coordinate with cabin crew.",
+    "id": "0fcd87ec"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Cross-check with other airspeed indicators, use GPS groundspeed as reference, avoid abrupt maneuvers.",
+    "id": "82958520"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Bird Strike",
+    "instructions": "Assess aircraft for damage, monitor engine performance, prepare for possible diversion.",
+    "id": "0a5efde9"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Navigation System Failure",
+    "instructions": "Switch to backup navigation system, continue flight under manual control, prepare for manual landing.",
+    "id": "7f3f73c3"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "f26fc1d8"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "a8aa1fc4"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Turbulence",
+    "instructions": "Engage autopilot turbulence mode, ensure seat belts are fastened, report to ATC.",
+    "id": "f4930026"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Bird Strike",
+    "instructions": "Check for abnormal vibrations, perform engine checks, advise cabin crew.",
+    "id": "8d38097a"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Cabin Pressure Loss",
+    "instructions": "Descend to 10,000 feet, ensure oxygen masks are deployed, contact ATC for emergency descent.",
+    "id": "9af5bf17"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Decompression",
+    "instructions": "Don oxygen masks, initiate emergency descent, inform ATC and passengers.",
+    "id": "a5c55b63"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Consider belly landing if necessary, brief cabin crew and passengers.",
+    "id": "5f439b48"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Cross-check with other airspeed indicators, use GPS groundspeed as reference, avoid abrupt maneuvers.",
+    "id": "b91d9ff2"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "c65371b3"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Stall Warning",
+    "instructions": "Lower nose to reduce angle of attack, increase throttle to regain airspeed, avoid abrupt inputs.",
+    "id": "7603569c"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "e81b74cb"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Engine Overheating",
+    "instructions": "Reduce thrust on affected engine, monitor temperature gauges, prepare for potential engine shutdown.",
+    "id": "f2798f6c"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Instrument Failure",
+    "instructions": "Avoid abrupt maneuvers, monitor other instruments for inconsistencies.",
+    "id": "bb8b00dd"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Instrument Failure",
+    "instructions": "Use co-pilot's instruments if available, prepare for approach using backup systems.",
+    "id": "4e1ba1ec"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "40e4d6a5"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "6bbd4d3b"
+  },
+  {
+    "manual_section": "FCOM Section 3",
+    "scenario": "Decompression",
+    "instructions": "Check cabin pressure indicators, prepare for possible hypoxia symptoms, divert to suitable airport.",
+    "id": "f0a3d25c"
+  },
+  {
+    "manual_section": "AOM Section 1",
+    "scenario": "Turbulence",
+    "instructions": "Engage autopilot turbulence mode, ensure seat belts are fastened, report to ATC.",
+    "id": "cf074dcd"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Consider belly landing if necessary, brief cabin crew and passengers.",
+    "id": "6c2c13b0"
+  },
+  {
+    "manual_section": "FCOM Section 1",
+    "scenario": "Decompression",
+    "instructions": "Don oxygen masks, initiate emergency descent, inform ATC and passengers.",
+    "id": "f0e12fb4"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Engine Failure",
+    "instructions": "Monitor engine parameters, shut down affected engine if necessary, advise cabin crew.",
+    "id": "4207c54c"
+  },
+  {
+    "manual_section": "AOM Section 8",
+    "scenario": "Fuel Leak",
+    "instructions": "Isolate affected fuel tank, crossfeed from other tanks, calculate remaining fuel for diversion.",
+    "id": "7542f9bb"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Brake Failure",
+    "instructions": "Plan for longer landing rollout, use reverse thrust and spoilers effectively, inform ATC.",
+    "id": "6c809787"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Instrument Failure",
+    "instructions": "Use co-pilot's instruments if available, prepare for approach using backup systems.",
+    "id": "1d906840"
+  },
+  {
+    "manual_section": "QRH Section 1",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "85c8d4b8"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Consider belly landing if necessary, brief cabin crew and passengers.",
+    "id": "54864c2d"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "8b7403cb"
+  },
+  {
+    "manual_section": "AOM Section 4",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Ensure engines and systems are shut down, assist passengers as needed, inform emergency services.",
+    "id": "e9e1b01b"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Turbulence",
+    "instructions": "Reduce speed to turbulence penetration speed, secure cabin, prepare for altitude change.",
+    "id": "4b0470b6"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "aa3ceec9"
+  },
+  {
+    "manual_section": "FCOM Section 4",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Activate pitot heat, suspect pitot-static system blockage, prepare for unreliable airspeed procedure.",
+    "id": "a3bb5c50"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Runway Overrun",
+    "instructions": "Coordinate with emergency services, assist passengers during evacuation.",
+    "id": "b6010ad5"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Stop aircraft, initiate evacuation procedures, coordinate with cabin crew.",
+    "id": "77bb3243"
+  },
+  {
+    "manual_section": "FCOM Section 5",
+    "scenario": "Fire in Engine",
+    "instructions": "Monitor fire indicators, do not attempt engine restart until safe.",
+    "id": "68e03880"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Landing Gear Malfunction",
+    "instructions": "Inform ATC of gear issue, perform alternate gear extension procedures.",
+    "id": "e87d016f"
+  },
+  {
+    "manual_section": "AOM Section 2",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "943ffb7a"
+  },
+  {
+    "manual_section": "AOM Section 3",
+    "scenario": "Smoke in Cabin",
+    "instructions": "Don smoke goggles if necessary, coordinate with ATC for priority landing.",
+    "id": "37f58ad5"
+  },
+  {
+    "manual_section": "AOM Section 7",
+    "scenario": "Stall Warning",
+    "instructions": "Avoid banking, maintain wings level, communicate with co-pilot.",
+    "id": "d46a1e84"
+  },
+  {
+    "manual_section": "AOM Section 6",
+    "scenario": "Navigation System Failure",
+    "instructions": "Switch to backup navigation system, continue flight under manual control, prepare for manual landing.",
+    "id": "6ecd7c5d"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Engine Overheating",
+    "instructions": "Check for oil pressure anomalies, consider engine shutdown if overheating persists.",
+    "id": "2c0e6783"
+  },
+  {
+    "manual_section": "FCOM Section 2",
+    "scenario": "Bird Strike",
+    "instructions": "Check for abnormal vibrations, perform engine checks, advise cabin crew.",
+    "id": "76e81c8e"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Fuel Leak",
+    "instructions": "Declare emergency, avoid areas where fuel leak could cause hazard, prepare for immediate landing.",
+    "id": "559b72bf"
+  },
+  {
+    "manual_section": "AOM Section 9",
+    "scenario": "Fuel Leak",
+    "instructions": "Monitor fuel levels closely, communicate fuel status to ATC.",
+    "id": "7f01ade3"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Implement manual flight controls, reduce speed, prepare for manual landing.",
+    "id": "3c9b5394"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Icing Conditions",
+    "instructions": "Report icing conditions to ATC, request vector to exit icing area, perform de-icing procedures.",
+    "id": "bab4e090"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Hydraulic Failure",
+    "instructions": "Limit control inputs to essential movements, monitor hydraulic pressure levels.",
+    "id": "ea6c2c5c"
+  },
+  {
+    "manual_section": "AOM Section 5",
+    "scenario": "Emergency Evacuation",
+    "instructions": "Deploy slides if necessary, account for all passengers and crew.",
+    "id": "f065ca29"
+  },
+  {
+    "manual_section": "QRH Section 3",
+    "scenario": "Fire in Engine",
+    "instructions": "Declare Mayday, divert to nearest suitable airport, advise cabin crew and passengers.",
+    "id": "846d0ee0"
+  },
+  {
+    "manual_section": "AOM Section 10",
+    "scenario": "Fire in Engine",
+    "instructions": "Shut down affected engine, activate fire suppression system, prepare for emergency landing.",
+    "id": "2ba83365"
+  },
+  {
+    "manual_section": "QRH Section 2",
+    "scenario": "Airspeed Indicator Malfunction",
+    "instructions": "Inform ATC of unreliable airspeed, maintain safe altitude and attitude.",
+    "id": "385107af"
+  }
+]
