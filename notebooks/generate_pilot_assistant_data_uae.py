@@ -534,8 +534,7 @@ for dataset_name, file_name in dataset_names.items():
         elif dataset_name == "historical_incidents":
             writer.writerow(["Date", "Incident Type", "Actions Taken", "Delay Impact (minutes)", "Remarks"])
         elif dataset_name == "flight_manuals":
-                for row in datasets[dataset_name]:
-                    writer.writerow(row)
+            writer.writerow(["Manual Section", "Scenario", "Instructions"])
         elif dataset_name == "fuel_management":
             writer.writerow(["Time", "Call Sign", "Current Fuel (kg)", "Expected Fuel Upon Arrival (kg)", "Fuel Consumption Rate (kg/h)", "Remarks"])
         elif dataset_name == "notams":
