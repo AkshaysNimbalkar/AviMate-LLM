@@ -37,7 +37,7 @@ def elastic_search(query_vector, index_name, es_client, top_k=3):
                 "match_all": {}
             },
             "script": {
-                "source": "cosineSimilarity(params.query_vector, 'embedding') + 1.0",
+                "source": "cosineSimilarity(params.query_vector, 'text_vector') + 1.0",
                 "params": {"query_vector": query_vector}
             }
         }
@@ -50,7 +50,7 @@ def elastic_search(query_vector, index_name, es_client, top_k=3):
             body={
                 "size": top_k,
                 "query": script_query,
-                "_source": ["manual_section", "scenario", "instructions", "text"]  # Adjust fields as needed
+                "_source": ["manual_section", "scenario", "instructions", "text", "id"]  # Adjust fields as needed
             }
         )
         
@@ -161,7 +161,7 @@ def main():
                 st.audio(audio_data, format='audio/mp3')
             else:
                 st.warning("Please enter a query.")
-                
+
     # Voice Input Tab
     with tab2:
         st.header("Voice Input")
