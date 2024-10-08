@@ -13,7 +13,7 @@
 To see a demo of the project check this video:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=-1crEgOXYQ0&ab_channel=AkshayNimbalkar">
-    <img src="images/main.png">
+    <img src="images/2.png">
   </a>
 </p>
 
