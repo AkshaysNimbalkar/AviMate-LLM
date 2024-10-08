@@ -1,6 +1,23 @@
 version: '3.8'
 
 services:
+  streamlit:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - ELASTIC_URL=http://elasticsearch:${ELASTIC_PORT:-9200}
+    depends_on:
+      - postgres
+      - elasticsearch
+
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.4.3
     # container_name: elasticsearch
