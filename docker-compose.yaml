@@ -3,11 +3,11 @@ version: '3.8'
 services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.4.3
-    #container_name: elasticsearch
+    # container_name: elasticsearch
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-      - ES_JAVA_OPTS=-Xms1g -Xmx1g #change1
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g # change1
     ports:
       - "9200:9200"
       - "9300:9300"
@@ -15,10 +15,12 @@ services:
       resources:
         limits:
           memory: 2G  # change 2
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
 
   ollama:
     image: ollama/ollama
-    #container_name: ollama
+    # container_name: ollama
     volumes:
       - ollama:/root/.ollama
     ports:
@@ -26,17 +28,34 @@ services:
 
   postgres:
     image: postgres:13
-    container_name: postgres
     environment:
-      POSTGRES_DB: ${POSTGRES_DB}
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     ports:
       - "${POSTGRES_PORT:-5432}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
   
-  
+  grafana:
+    image: grafana/grafana:latest
+    # container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin # Change this to a strong password
+      - GF_USERS_DEFAULT_THEME=light
+    volumes:
+      - grafana_data:/var/lib/grafana
+    depends_on:
+      - postgres
+      - elasticsearch
 
 volumes:
+  elasticsearch_data:
   ollama:
+  postgres:
+  postgres_data:
+  grafana_data:
+  

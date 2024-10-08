@@ -21,6 +21,8 @@ pipenv install spacy dateparser --dev
 pipenv run python -m spacy download en_core_web_sm
 pipenv install sentence-transformers --dev
 pipenv install openai-whisper --dev
+pipenv install SpeechRecognition --dev
+pipenv install streamlit-audiorecorder --dev
 ```
 
 ### RUn the Elastic Search with Docker

@@ -189,7 +189,7 @@ def main():
 
         if stop_button and st.session_state.state == 'recording':
             if st.session_state.query_audio_bytes is not None:
-                # Process the query audio
+                # Process the query audio   
                 st.write("Processing your question...")
                 transcription = transcribe_audio(st.session_state.query_audio_bytes)
                 st.write(f"You said: {transcription}")

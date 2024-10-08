@@ -22,9 +22,9 @@ openai-whisper = "*"
 SpeechRecognition = "*"
 pydub = "*"
 gtts = "*"
-streamlit-audiorecorder = "*"
-streamlit-webrtc = "*"
 streamlit-audiorec = "*"
+psycopg2-binary = "*"
+pgcli = "*"
 
 [requires]
 python_version = "3.11"
