@@ -2,7 +2,8 @@
 
 ### Introduction
 
-```AviMate``` a Pilot Cockpit Assistance GEN AI Tool involves creating an application that aids pilots by summarizing Flight manuals, Air Traffic Control (ATC) communications and providing relevant flight information in real-time. This tool aims to enhance situational awareness, reduce workload, and improve safety during flight operations.
+```AviMate``` a Pilot Cockpit Assistance GEN AI Tool involves creating an application that aids pilots by summarizing Flight manuals, Air Traffic Control (ATC) communications and providing relevant flight information in real-time. This tool aims to enhance situational awareness, reduce workload, and improve safety during flight operations. 
+**𝐴𝓋𝒾𝑀𝒶𝓉𝑒**, a groundbreaking Pilot Cockpit Assistance GEN AI Tool. Inspired by the idea of building an in-flight assistant akin to Iron Man's **𝐽𝒶𝓇𝓋𝒾𝓈**, AviMate aims to revolutionize how pilots interact with flight data and manage cockpit operations..
 
 
 <p align="center">
