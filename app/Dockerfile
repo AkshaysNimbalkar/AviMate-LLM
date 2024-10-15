@@ -31,5 +31,8 @@ ENV STREAMLIT_SERVER_ENABLE_XSRF_PROTECTION=false
 ENV STREAMLIT_SERVER_PORT=8501
 ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
 
+# added streamlit executabl path
+ENV PATH="/usr/local/bin:${PATH}"
+
 # Command to run the application
 CMD ["streamlit", "run", "app.py"]

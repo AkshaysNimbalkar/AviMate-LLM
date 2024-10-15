@@ -14,6 +14,8 @@ services:
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
       - POSTGRES_DB=${POSTGRES_DB}
       - ELASTIC_URL=http://elasticsearch:${ELASTIC_PORT:-9200}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+
     depends_on:
       - postgres
       - elasticsearch
