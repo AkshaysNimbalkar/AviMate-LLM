@@ -1,0 +1,28 @@
+Time_UTC,call_sign,Frequency,Message,Altitude,Phase,Event_Flag
+00:05:00,UAE201,121.900,"UAE201, Dubai Ground, pushback and engine start approved. Expect runway 12R for departure.",0,Pre-flight,
+00:10:00,UAE201,121.800,"UAE201, taxi to runway 12R via taxiways Alpha and Bravo. Hold short of runway 12R.",0,Taxi,
+00:20:00,UAE201,118.750,"UAE201, Dubai Tower, wind 110 degrees at 5 knots. Runway 12R cleared for takeoff.",0,Takeoff,
+00:25:00,UAE201,124.500,"UAE201, contact Dubai Departure on 124.5. Good morning.",3000,Departure,
+00:30:00,UAE201,124.500,"UAE201, climb and maintain flight level 150.",10000,Climb,
+00:40:00,UAE201,127.850,"UAE201, proceed direct to waypoint ORLON, climb and maintain flight level 350.",20000,Climb,
+02:00:00,UAE201,132.000,"UAE201, maintain flight level 350, report reaching waypoint PASOV.",35000,Cruise,
+04:00:00,UAE201,128.600,"UAE201, be advised of moderate turbulence ahead, suggest climb to flight level 370.",35000,Cruise,Weather Alert
+04:05:00,UAE201,128.600,"UAE201, climb and maintain flight level 370.",37000,Cruise,
+06:00:00,UAE201,125.300,"UAE201, report position over waypoint LALAT.",37000,Cruise,
+08:00:00,UAE201,126.900,"UAE201, descend and maintain flight level 330.",33000,Descent,
+09:30:00,UAE201,120.300,"UAE201, descend and maintain 10,000 feet, reduce speed to 250 knots.",10000,Descent,
+09:45:00,UAE201,119.100,"UAE201, turn left heading 180 degrees, descend to 3,000 feet, cleared ILS runway 25R approach.",3000,Approach,
+09:55:00,UAE201,118.500,"UAE201, Jakarta Tower, wind 250 degrees at 10 knots, runway 25R cleared to land.",0,Landing,
+10:05:00,UAE201,121.700,"UAE201, welcome to Jakarta, taxi to gate via taxiways Bravo and Delta.",0,Taxi to Gate,
+10:15:00,UAE201,---,-- Ground Time at Jakarta --,0,Ground,
+14:00:00,UAE201,121.900,"UAE201, Jakarta Ground, pushback and start approved, expect runway 07L for departure.",0,Pre-flight,
+14:10:00,UAE201,121.800,"UAE201, taxi to runway 07L via taxiways Echo and Foxtrot.",0,Taxi,
+14:20:00,UAE201,118.700,"UAE201, Jakarta Tower, wind 070 degrees at 8 knots, runway 07L cleared for takeoff.",0,Takeoff,
+14:25:00,UAE201,124.300,"UAE201, contact Jakarta Departure on 124.3.",3000,Departure,
+14:30:00,UAE201,124.300,"UAE201, climb and maintain flight level 360.",15000,Climb,
+16:00:00,UAE201,125.600,"UAE201, we have an indication of engine failure, requesting immediate descent.",36000,Cruise,Emergency
+16:05:00,UAE201,125.600,"UAE201, roger, descend and maintain 10,000 feet, turn left heading 270 degrees, vectoring for return to Jakarta.",10000,Descent,Emergency
+17:00:00,UAE201,119.100,"UAE201, cleared for emergency landing runway 25R, emergency services are standing by.",3000,Approach,Emergency
+17:10:00,UAE201,118.500,"UAE201, Jakarta Tower, runway 25R cleared to land.",0,Landing,Emergency
+17:20:00,UAE201,121.700,"UAE201, taxi to stand, follow the escort vehicle.",0,Taxi to Gate,Emergency
+17:30:00,UAE201,---,-- Aircraft grounded for inspection --,0,Ground,Emergency
